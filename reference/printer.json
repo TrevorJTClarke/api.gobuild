@@ -29,5 +29,16 @@
     "size": 0.4,
     "active": true,
     "type": "nozzle"
+  },{
+    "name": "nest",
+    "active": true,
+    "type": "camera",
+    "url": "https://home.nest.com/camera/8ed19ee17c9d"
+  },{
+    "id": 1000,
+    "name": "filalisten",
+    "active": true,
+    "type": "notifier",
+    "notifications": ["push", "email"]
   }]
 }
