@@ -1,3 +1,15 @@
 {
-  "id": 100000000000000
+  "id": 100000000000000,
+  "accounts": [10000000000000],
+  "acl": "admin",
+  "firstName": "Trevor",
+  "lastName": "Clarke",
+  "email": "tr@cl.com",
+  "mask": "hash",
+  "lastLogin": 1409054203900,
+  "createdAd": 1409054203900,
+  "items": [100000000000110],
+  "orders": [100000000110],
+  "settings": {},
+  "stats": {}
 }

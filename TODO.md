@@ -1,5 +1,20 @@
 ## TODO:
 
+#### Steps:
+
+  - Setup Database SQL
+	- Setup Init DB Script
+	- Setup Test Data Script
+	- Setup Account & Users
+	- Setup Auth
+
+
+
+
+
+
+### Notes:
+
 /		GET
 /:product		POST, GET (materials, items, printers)
 	/:id	GET, PUT, DELETE
@@ -31,7 +46,7 @@ Feature
   Printer-
   Item-
   Account-
-  Users
+  Users-
 
 Attributes
   Brand-
