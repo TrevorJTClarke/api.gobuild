@@ -1,0 +1,50 @@
+{
+  "data": [{
+    "id": 895,
+    "label": "FDM",
+    "slug": "fdm",
+    "description": "FDM (Fused Deposition Modeling) is where the model is built up layer by layer with hot melted plastic that is pushed through a heated nozzle onto a precise location where it then cools and becomes solid."
+  }, {
+    "id": 896,
+    "label": "SLS",
+    "slug": "sls",
+    "description": "SLS (Selective Laser Sintering) uses a laser to shape and form powdered material by melting it together to create a solid structure. The advantage of this process is that the powder acts as a support to the structure as it is being produced which allows for complex shapes to be made."
+  }, {
+    "id": 897,
+    "label": "SLA + DLP",
+    "slug": "sla--plus-dlp",
+    "description": "SLA+DLP (Stereolithography + Digital Light Processing) is a very precise way to produce very accurate parts with an excellent surface finish. A liquid resin is solidified layer by layer by a UV light. This process often requires support structures for parts with overhangs or undercuts. "
+  }, {
+    "id": 917,
+    "label": "Jetting",
+    "slug": "jetting",
+    "description": "Jetting (material jetting) allows for a single part to be produced from multiple materials with different properties. It\u2019s very precise and produces a very smooth finish. The materials are melted and then selectively jetted through multiple jet heads (like a color ink 2D printer)."
+  }, {
+    "id": 940,
+    "label": "Paper",
+    "slug": "paper",
+    "description": "Paper 3D printing builds parts layer by layer using standard copier paper. Each layer is fixed to the previous one with an adhesive, the layer is then heated, pressed, and then cut out by a blade. This process is less capable of complex geometric shapes and the build size is limited by the size of the paper used."
+  }, {
+    "id": 7751,
+    "label": "Metal Sintering",
+    "slug": "metal-sintering",
+    "description": "Metal Sintering uses a laser to fuse powdered metal into solid metal parts. This process is used to create metal parts that would be impossible or just too expensive to build using conventional machining methods."
+  }, {
+    "id": 9446,
+    "label": "PolyJet",
+    "slug": "polyjet",
+    "description": "PolyJet 3D printing is similar to inkjet printing, but instead of jetting drops of ink onto paper, these 3D printers jet layers of liquid photopolymer onto a build tray and cure them instantly using UV light. The results are fully cured objects that can be handled and used immediately."
+  }, {
+    "id": 10068,
+    "label": "PLA",
+    "slug": null,
+    "description": ""
+  }],
+  "meta": {
+    "pagination": {
+      "total_results": 8,
+      "total_pages": 1,
+      "current_page": 1
+    }
+  }
+}

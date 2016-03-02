@@ -1,0 +1,20 @@
+{
+  "id": 10000000000000,
+  "users": [100000000000000,100000000000001],
+  "printers": [1000000000, 1000000001],
+  "materials": [10000000000000, 10000000000001],
+  "items": [100000000000110],
+  "orders": [100000000110],
+  "name": "Maker Space",
+  "admins": [100000000000000],
+  "subscription": {
+    "id": 1000,
+    "name": "starter",
+    "currency": "USD",
+    "amount": 10,
+    "recurring": "monthly",
+    "active": true,
+    "startDate": 1489038292200,
+    "endDate": null
+  }
+}

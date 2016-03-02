@@ -1,0 +1,47 @@
+{
+  "attributes": [{
+    "id": 39,
+    "name": "colorFabb",
+    "field": "brand"
+  },{
+    "id": 10290,
+    "name": "pla",
+    "field": "type"
+  },{
+    "id": 10290,
+    "name": "FFF",
+    "normalized": "FFF",
+    "field": "base"
+  },{
+    "id": 1000,
+    "amount": 0.75,
+    "name": "kg",
+    "field": "weight"
+  },{
+    "id": 100000,
+    "name": "TBD:small",
+    "measure": "cm3",
+    "currency": "USD",
+    "amount": 0.26,
+    "field": "price_point"
+  },{
+    "id": 100000001,
+    "name": "Midnight Blue",
+    "normalized": "blue",
+    "images": [{
+      "imageId": "p/3094284fidsl",
+      "imageVersion": "v1234567890"
+    }],
+    "type": ["idOfAType??"],
+    "field": "color"
+  }],
+  "name": "Midnight Blue",
+  "id": 10000000000000,
+  "sku": "320urfjinjnfw0e30",
+  "dateAdded": 1234567890898,
+  "dateOpened": 1234567890898,
+  "amounts": {
+    "total": 1.5,
+    "used": 0.4
+  }
+}

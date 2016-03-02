@@ -1,5 +1,7 @@
 {
   "id": 1000,
-  "name": "pla",
-  "base": "idOfBaseItem"
+  "name": "PLA-PHA",
+  "normalized": "PLA/PHA",
+  "base": "idOfBaseItem",
+  "active": true
 }

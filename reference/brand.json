@@ -1,5 +1,6 @@
 {
   "id": 100000001,
   "name": "Ultimaker",
-  "types": ["IdOfTheTypesOfFilament"]
+  "types": ["IdOfTheTypesOfFilament"],
+  "active": true
 }

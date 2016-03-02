@@ -3,7 +3,9 @@
   "name": "Midnight Blue",
   "normalized": "blue",
   "images": [{
-    ""
+    "imageId": "p/3094284fidsl",
+    "imageVersion": "v1234567890"
   }],
-  "type": ["idOfAType??"]
+  "type": ["idOfAType??"],
+  "active": true
 }

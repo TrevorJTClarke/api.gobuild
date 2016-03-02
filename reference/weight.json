@@ -1,5 +1,6 @@
 {
   "id": 1000,
   "amount": 0.75,
-  "measure": "kg"
+  "measure": "kg",
+  "active": true
 }

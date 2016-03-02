@@ -1,0 +1,424 @@
+{
+  "data": [{
+    "id": 7755,
+    "label": "General Purpose Plastics",
+    "slug": "prototyping-plastics",
+    "description": "Both ABS and PLA are affordable, durable widely available plastics.",
+    "about": "\u003Cp\u003EGreat starter material: affordable, durable and widely available. Mostly used for prototyping mechanical parts and designs that don\u2019t have a lot of overhang. Available in all colors.\u003C\/p\u003E\n\u003Cp\u003EPrinting with general purpose plastics come with some design constrictions. Models with an outward facing wall angle sharper than 45 degrees can\u2019t be printed without extra support material and parts under 1mm will most likely not print.\u003C\/p\u003E\n",
+    "highlight": null,
+    "picture": {
+      "name": "General Purpose Plastics.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/medium\/hubs3dpublic\/General%20Purpose%20Plastics.jpg?itok=PsC9_5jD",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/General%20Purpose%20Plastics.jpg?itok=_94j3Rlb",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/General%20Purpose%20Plastics.jpg?itok=_94j3Rlb"
+      }
+    },
+    "modal_image": {
+      "name": "General Purpose Plastic_1.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/www.3dhubs.com\/s3\/files\/styles\/medium\/hubs3dpublic\/General%20Purpose%20Plastic_1_0.jpg?itok=yzSysJyT",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/General%20Purpose%20Plastic_1_0.jpg?itok=booy9Gx4",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/General%20Purpose%20Plastic_1_0.jpg?itok=booy9Gx4"
+      }
+    },
+    "pros": ["Low-cost prototyping", "Mechanical parts", "Cases, holders, adapters", "Games, toys", "Scale models"],
+    "cons": ["Intricate designs"],
+    "hd": false,
+    "tip": null,
+    "tags": null,
+    "promoted": true,
+    "public": false,
+    "attributes": null,
+    "weight": 0
+  }, {
+    "id": 7757,
+    "label": "High Detail Resin",
+    "slug": "high-detail-plastics",
+    "description": "Smooth finish, fine details, great for highly detailed models.",
+    "about": "\u003Cp\u003EUV-cured resin prints sport fine details, sharp edges and smooth finish. The color availability is limited, but it is easily paintable and can also be semi-translucent.\u003C\/p\u003E\n\u003Cp\u003EApart from size, there is hardly any restriction for printing in high detail resin. Bear in mind that protruding parts under 1mm will most likely break and tiny details under 0.2mm will not be visible.\u003C\/p\u003E\n",
+    "highlight": null,
+    "picture": {
+      "name": "High Detail Resin.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/medium\/hubs3dpublic\/High%20Detail%20Resin.jpg?itok=TwYauJCD",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/High%20Detail%20Resin.jpg?itok=drH_tWcJ",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/High%20Detail%20Resin.jpg?itok=drH_tWcJ"
+      }
+    },
+    "modal_image": {
+      "name": "High Detail Resin_1.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/www.3dhubs.com\/s3\/files\/styles\/medium\/hubs3dpublic\/High%20Detail%20Resin_1_0.jpg?itok=pgM98RN3",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/High%20Detail%20Resin_1_0.jpg?itok=ohOKUFjO",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/High%20Detail%20Resin_1_0.jpg?itok=ohOKUFjO"
+      }
+    },
+    "pros": ["Intricate designs and sculptures", "Small, high detail models", "Jewellery, art", "Investment casting"],
+    "cons": ["Large models", "Extensive exposure to UV-light"],
+    "hd": false,
+    "tip": null,
+    "tags": null,
+    "promoted": true,
+    "public": false,
+    "attributes": null,
+    "weight": 1
+  }, {
+    "id": 7756,
+    "label": "Strong \u0026 Flexible Nylon",
+    "slug": "strong-flexible-nylon",
+    "description": "Perfect all-rounder, allows for functional end products and complex designs.",
+    "about": "\u003Cp\u003EIt\u0026#039;s the perfect all-rounder: easy design rules, strong and slightly flexible. Nylon allows for functional end products and complex designs. Its surface is a bit grainy, but it can be polished for a smooth finish.\u003C\/p\u003E\n\u003Cp\u003ENylon prints are laser sintered on industrial 3D printers. The technology gives you a high degree of form freedom and you can even print moving parts in one go.\u003C\/p\u003E\n",
+    "highlight": null,
+    "picture": {
+      "name": "Strong and Flexible Nylon.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/medium\/hubs3dpublic\/Strong%20and%20Flexible%20Nylon.jpg?itok=pAy6tY8e",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Strong%20and%20Flexible%20Nylon.jpg?itok=ORq00bEE",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Strong%20and%20Flexible%20Nylon.jpg?itok=ORq00bEE"
+      }
+    },
+    "modal_image": {
+      "name": "Strong and flexibler nylon_1.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/www.3dhubs.com\/s3\/files\/styles\/medium\/hubs3dpublic\/Strong%20and%20flexibler%20nylon_1_0.jpg?itok=-w90N4MV",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Strong%20and%20flexibler%20nylon_1_0.jpg?itok=64pg-Poi",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Strong%20and%20flexibler%20nylon_1_0.jpg?itok=64pg-Poi"
+      }
+    },
+    "pros": ["Functional prototypes and end products", "Complex designs with intricate details", "Moving and assembled parts", "Cases, holders, adapters"],
+    "cons": ["Cavities within design (unless making use of escape holes)"],
+    "hd": true,
+    "tip": null,
+    "tags": null,
+    "promoted": true,
+    "public": true,
+    "attributes": null,
+    "weight": 2
+  }, {
+    "id": 9418,
+    "label": "Rigid Opaque Plastic",
+    "slug": "rigid-opaque-plastic",
+    "description": "Fine detail prototypes with a smooth surface finish.",
+    "about": "\u003Cp\u003ERigid Opaque Plastic (Vero) is the go-to material for realistic prototypes, providing excellent details, high accuracy and smooth surface finish with up to 16 micron layer heights.\u003C\/p\u003E\n\u003Cp\u003EWith Rigid Opaque Plastic, you can 3D print attractive prototypes that closely resemble the \u2018look\u2019 of the end product and test fit, form and function, even for moving and assembled parts.\u003C\/p\u003E\n",
+    "highlight": null,
+    "picture": {
+      "name": "Rigid Opaque Plastic.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/medium\/hubs3dpublic\/Rigid%20Opaque%20Plastic.jpg?itok=FWA6UzTd",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Rigid%20Opaque%20Plastic.jpg?itok=fTUZ-e9k",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Rigid%20Opaque%20Plastic.jpg?itok=fTUZ-e9k"
+      }
+    },
+    "modal_image": {
+      "name": "Rigid opaque_1.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/www.3dhubs.com\/s3\/files\/styles\/medium\/hubs3dpublic\/Rigid%20opaque_1_0.jpg?itok=tHcEcd-u",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Rigid%20opaque_1_0.jpg?itok=x1H-jFfx",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Rigid%20opaque_1_0.jpg?itok=x1H-jFfx"
+      }
+    },
+    "pros": ["Fine-detail models with smooth surfaces", "Form and fit testing ", "Sales, marketing and exhibition models", "Moving and assembled parts"],
+    "cons": ["End products (sensitive to UV light)"],
+    "hd": true,
+    "tip": "Fine-detail models with smooth surfaces\r\nForm and fit testing \r\nSales, marketing and exhibition models\r\nMoving and assembled parts\r\n",
+    "tags": null,
+    "promoted": true,
+    "public": true,
+    "attributes": null,
+    "weight": 3
+  }, {
+    "id": 9425,
+    "label": "Rubber-Like Plastic",
+    "slug": "rubber-plastic",
+    "description": "Simulate rubber with various levels of elasticity.",
+    "about": "\u003Cp\u003EWith Rubber-Like Plastic (Tango), you can simulate rubber with various levels of elastomer characteristic including Shore Scale A hardness, elongation at break, tear resistance and tensile strength. \u003C\/p\u003E\n\u003Cp\u003EThis material enables you to simulate a wide variety of finished products, such as non-slip or soft surfaces on consumer electronics, medical devices and automotive interiors.\u003C\/p\u003E\n",
+    "highlight": null,
+    "picture": {
+      "name": "Rubber-like Plastic.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/medium\/hubs3dpublic\/Rubber-like%20Plastic.jpg?itok=bwQP2Rhd",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Rubber-like%20Plastic.jpg?itok=478IBgx4",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Rubber-like%20Plastic.jpg?itok=478IBgx4"
+      }
+    },
+    "modal_image": {
+      "name": "Rubber-like_1.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/www.3dhubs.com\/s3\/files\/styles\/medium\/hubs3dpublic\/Rubber-like_1_0.jpg?itok=gxrZeEMj",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Rubber-like_1_0.jpg?itok=_dcPQb-O",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Rubber-like_1_0.jpg?itok=_dcPQb-O"
+      }
+    },
+    "pros": ["Detailed models with various level of flexibility (Shore A 27 to 95)", "Soft-touch coatings, grips or nonslip surfaces", "Fine details and smooth surfaces", "Overmolding solid objects with rubber-like surroundings"],
+    "cons": ["End products (sensitive to UV light)"],
+    "hd": true,
+    "tip": null,
+    "tags": null,
+    "promoted": true,
+    "public": true,
+    "attributes": null,
+    "weight": 4
+  }, {
+    "id": 9424,
+    "label": "Transparent Plastic",
+    "slug": "transparent-plastic",
+    "description": "See-through parts and prototypes.\n",
+    "about": "\u003Cp\u003ETransparent plastic is one of the  clearest 3D printing materials available; combining clarity with high precision and smooth surface finish.\u003C\/p\u003E\n\u003Cp\u003EThis material is ideal for form and fit testing of see-through parts, fine-detail model building, enabling you to prototype clear and tinted products from eyewear and lighting covers to medical devices.\u003C\/p\u003E\n",
+    "highlight": null,
+    "picture": {
+      "name": "Transparent Plastic.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/medium\/hubs3dpublic\/Transparent%20Plastic.jpg?itok=vm53xWlh",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Transparent%20Plastic.jpg?itok=Gj1xlHQZ",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Transparent%20Plastic.jpg?itok=Gj1xlHQZ"
+      }
+    },
+    "modal_image": {
+      "name": "Transparent plastic_1.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/www.3dhubs.com\/s3\/files\/styles\/medium\/hubs3dpublic\/Transparent%20plastic_1_0.jpg?itok=xOLrjVrK",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Transparent%20plastic_1_0.jpg?itok=ge9Vc4bL",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Transparent%20plastic_1_0.jpg?itok=ge9Vc4bL"
+      }
+    },
+    "pros": ["Form and fit testing of see-through parts like: glass consumer products, eyewear, lighting covers and cases", "Fine-detail models with smooth surfaces", "Sales, marketing and exhibition models", "Medical or scientific vizualisations"],
+    "cons": ["End products (sensitive to UV light)"],
+    "hd": true,
+    "tip": null,
+    "tags": null,
+    "promoted": true,
+    "public": true,
+    "attributes": null,
+    "weight": 5
+  }, {
+    "id": 9426,
+    "label": "Simulated Polypropylene",
+    "slug": "simulated-polypropylene",
+    "description": "Durable prototypes that look and behave like polypropylene.\n",
+    "about": "\u003Cp\u003ESimulated Polypropylene is tough, flexible and durable. It provides great impact resilience combined with smooth curves and a beautiful surface finish. \u003C\/p\u003E\n\u003Cp\u003EThis material enables you to rapidly create precision prototypes that look and behave like polypropylene. Test form, fit and function for snap-fit assemblies, living hinges, durable housings and packaging.\u003C\/p\u003E\n",
+    "highlight": null,
+    "picture": {
+      "name": "Simulated Polypropylene.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/medium\/hubs3dpublic\/Simulated%20Polypropylene.jpg?itok=E_eJqGWf",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Simulated%20Polypropylene.jpg?itok=IqMG5RhK",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Simulated%20Polypropylene.jpg?itok=IqMG5RhK"
+      }
+    },
+    "modal_image": {
+      "name": "Simulated polypropylene_1.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/www.3dhubs.com\/s3\/files\/styles\/medium\/hubs3dpublic\/Simulated%20polypropylene_1_0.jpg?itok=2gJInlRR",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Simulated%20polypropylene_1_0.jpg?itok=lplc6CMm",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Simulated%20polypropylene_1_0.jpg?itok=lplc6CMm"
+      }
+    },
+    "pros": ["Tough and durable prototypes", "Fine-detail models with smooth surfaces", "Form, fit and functional testing ", "Flexible, snap-fit applications and living hinges"],
+    "cons": ["End products (sensitive to UV light)"],
+    "hd": true,
+    "tip": null,
+    "tags": null,
+    "promoted": true,
+    "public": true,
+    "attributes": null,
+    "weight": 6
+  }, {
+    "id": 9427,
+    "label": "Simulated ABS",
+    "slug": "simulated-abs",
+    "description": "High precision functional (injection) molds with the toughness of ABS.",
+    "about": "\u003Cp\u003ESimulated ABS is designed to imitate ABS engineering plastics by combining strength with high-temperature resistance. It provides high impact resistance and shock absorption along with a beautiful smooth surface finish.\u003C\/p\u003E\n\u003Cp\u003EWith Simulated ABS, you can create high precision engineering tools as well as tough and durable prototypes. It is the fastest and most affordable way to produce high precision injection molds for small injection molding runs of 10-100 pieces.\u003C\/p\u003E\n",
+    "highlight": null,
+    "picture": {
+      "name": "Simulated ABS.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/medium\/hubs3dpublic\/Simulated%20ABS_1.jpg?itok=CxUo-xEF",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Simulated%20ABS_1.jpg?itok=rdqhwAYX",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Simulated%20ABS_1.jpg?itok=rdqhwAYX"
+      }
+    },
+    "modal_image": {
+      "name": "Simulated ABS_1.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/www.3dhubs.com\/s3\/files\/styles\/medium\/hubs3dpublic\/Simulated%20ABS_1_0.jpg?itok=dYmI8ecN",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Simulated%20ABS_1_0.jpg?itok=7ddumWrF",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Simulated%20ABS_1_0.jpg?itok=7ddumWrF"
+      }
+    },
+    "pros": ["Molds, including injection molds", "Tough and heat resistant prototypes", "Fine-detail models with smooth surfaces", "Form, fit, and functional testing "],
+    "cons": ["End products (sensitive to UV light)"],
+    "hd": true,
+    "tip": null,
+    "tags": null,
+    "promoted": true,
+    "public": true,
+    "attributes": null,
+    "weight": 7
+  }, {
+    "id": 9428,
+    "label": "Heat Resistant Plastic",
+    "slug": "heat-resistant-plastic",
+    "description": "Thermal resistant prototypes up to 80 C \/ 176 F\n",
+    "about": "\u003Cp\u003EHeat Resistant Plastic can simulate the thermal performance of engineering plastics, combining heat resistance with precision and a beautiful surface finish.\u003C\/p\u003E\n\u003Cp\u003EThis material enables you to test form, fit as well as thermal function at 63\u201367 C (145-153 F) upon removal from the printer and at 75-80 C (167-176 F) after thermal post treatment. Thanks to the heat resistance, it\u2019s also recommended for exhibition models that need to endure strong lighting conditions.\u003C\/p\u003E\n",
+    "highlight": null,
+    "picture": {
+      "name": "Heat Resistant.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/medium\/hubs3dpublic\/Heat%20Resistant.jpg?itok=xUyZdlhn",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Heat%20Resistant.jpg?itok=-ztLEDHp",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Heat%20Resistant.jpg?itok=-ztLEDHp"
+      }
+    },
+    "modal_image": {
+      "name": "Heat resistant_1.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/www.3dhubs.com\/s3\/files\/styles\/medium\/hubs3dpublic\/Heat%20resistant_1_0.jpg?itok=AJVRpDtx",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Heat%20resistant_1_0.jpg?itok=YauTIMdT",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Heat%20resistant_1_0.jpg?itok=YauTIMdT"
+      }
+    },
+    "pros": ["Hot air and hot water testing, heat resistant jigs and fixtures", "Exhibition models that require the need to endure strong lighting conditions", "Tough and heat resistant prototypes", "Fine-detail models with smooth surfaces"],
+    "cons": ["End products (sensitive to UV light)"],
+    "hd": true,
+    "tip": null,
+    "tags": null,
+    "promoted": true,
+    "public": true,
+    "attributes": null,
+    "weight": 8
+  }, {
+    "id": 7753,
+    "label": "Full Color Sandstone",
+    "slug": "full-color-sandstone",
+    "description": "The best choice for photo-realistic, full color prints. ",
+    "about": "\u003Cp\u003EGypsum with colored texture on the surface. The best choice for photo-realistic, full color prints. Ideal for professional models, architecture, product design and fine arts.\u003C\/p\u003E\n\u003Cp\u003EFull Color Sandstone doesn\u2019t allow for protruding features smaller than 3 millimeters because of the brittleness of the material. Also walls have to be wider than 2 millimeters.\u003C\/p\u003E\n",
+    "highlight": null,
+    "picture": {
+      "name": "Full colour sandstone.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/medium\/hubs3dpublic\/Full%20colour%20sandstone.jpg?itok=jP_SA_Iv",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Full%20colour%20sandstone.jpg?itok=XS4SeSvz",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Full%20colour%20sandstone.jpg?itok=XS4SeSvz"
+      }
+    },
+    "modal_image": {
+      "name": "Full Color Sanstone_1_0 edited.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/www.3dhubs.com\/s3\/files\/styles\/medium\/hubs3dpublic\/Full%20Color%20Sanstone_1_0%20edited.jpg?itok=YOA6F_Hn",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Full%20Color%20Sanstone_1_0%20edited.jpg?itok=QZdSkVst",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Full%20Color%20Sanstone_1_0%20edited.jpg?itok=QZdSkVst"
+      }
+    },
+    "pros": ["Architectural models", "Lifelike sculptures", "Gifts and memorabilia", "Complex models"],
+    "cons": ["Functional parts", "Intricate features"],
+    "hd": false,
+    "tip": null,
+    "tags": null,
+    "promoted": true,
+    "public": false,
+    "attributes": null,
+    "weight": 9
+  }, {
+    "id": 7754,
+    "label": "Metals",
+    "slug": "industrial-metals",
+    "description": "Industrial and precious metals.",
+    "about": "\u003Cp\u003EIndustrial metals are laser sintered directly from metal powder. They allow you to create functional prototypes, mechanical parts and complex designs.\u003C\/p\u003E\n\u003Cp\u003EFor precious metals and jewellery, you can print a wax model using High Detail Resin, get it casted with the desired material and reach the desired finish after polishing.\u003C\/p\u003E\n",
+    "highlight": null,
+    "picture": {
+      "name": "metals_2.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/medium\/hubs3dpublic\/metals_2.jpg?itok=fBj89yVK",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/metals_2.jpg?itok=hwU3S7_i",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/metals_2.jpg?itok=hwU3S7_i"
+      }
+    },
+    "modal_image": {
+      "name": "Metals_1.jpg",
+      "title": "",
+      "description": "",
+      "sizes": {
+        "medium": "https:\/\/www.3dhubs.com\/s3\/files\/styles\/medium\/hubs3dpublic\/Metals_1_0.jpg?itok=XAGBox8o",
+        "x-large": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Metals_1_0.jpg?itok=NqfL04BA",
+        "original": "https:\/\/3dhubs.s3-eu-west-1.amazonaws.com\/s3fs-public\/styles\/x-large\/hubs3dpublic\/Metals_1_0.jpg?itok=NqfL04BA"
+      }
+    },
+    "pros": ["Functional prototypes and end products", "Complex designs with intricate details", "Mechanical parts", "Moving and assembled parts", "Jewellery"],
+    "cons": null,
+    "hd": false,
+    "tip": null,
+    "tags": null,
+    "promoted": true,
+    "public": false,
+    "attributes": null,
+    "weight": 10
+  }, {
+    "id": 7752,
+    "label": "Other Materials",
+    "slug": "other-materials",
+    "description": "Apart from the materials listed on this page there are a lot of exciting new materials popping up every day.\n\nThink about bamboo, bronze and copper filled materials, but also plaster and flexible plastics. If you\u0027re ready to try out these experimental materials find them using the advanced settings.",
+    "about": null,
+    "highlight": null,
+    "picture": null,
+    "modal_image": null,
+    "pros": null,
+    "cons": null,
+    "hd": false,
+    "tip": null,
+    "tags": null,
+    "promoted": false,
+    "public": false,
+    "attributes": null,
+    "weight": 11
+  }],
+  "meta": {
+    "pagination": {
+      "total_results": 12,
+      "total_pages": 1,
+      "current_page": 1
+    }
+  }
+}

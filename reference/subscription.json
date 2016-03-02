@@ -1,0 +1,10 @@
+{
+  "id": 1000,
+  "name": "starter",
+  "currency": "USD",
+  "amount": 10,
+  "recurring": "monthly",
+  "active": true,
+  "startDate": 1489038292200,
+  "endDate": null
+}

@@ -3,5 +3,6 @@
   "name": "TBD:small",
   "measure": "cm3",
   "currency": "USD",
-  "amount": 0.26
+  "amount": 0.26,
+  "active": true
 }

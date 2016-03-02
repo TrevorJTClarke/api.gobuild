@@ -1,10 +1,27 @@
 {
+  "id": 100000000000110,
   "name": "coat hanger",
-  "filament": {
-    "id": "320urfjinjnfw0e30",
-    "name": "midnight blue"
-  },
-  "size": 0.03,
   "cost": 14.89,
-  "date": 12367890343
+  "startDate": 12367890343,
+  "endDate": 12367890343,
+  "status": "fulfilled",
+  "active": true,
+  "resolutions": [200],
+  "materials": [100000001],
+  "printers": [1000000000],
+  "attributes": [{
+    "id": 100000,
+    "name": "TBD:small",
+    "measure": "cm3",
+    "currency": "USD",
+    "amount": 0.26,
+    "active": true
+  }],
+  "model": {
+    "file": "url_to_location",
+    "images": [{
+      "imageId": "p/3094284fidsl",
+      "imageVersion": "v1234567890"
+    }]
+  }
 }

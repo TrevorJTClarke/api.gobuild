@@ -1,4 +1,6 @@
 {
   "id": 1000,
-  "name": "resin"
+  "name": "resin",
+  "normalized": "Resin",
+  "active": true
 }

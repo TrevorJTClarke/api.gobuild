@@ -1,11 +1,33 @@
 {
   "attributes": [{
     "id": 39,
-    "brand": "ultimaker"
+    "brand": "Ultimaker"
+  },{
+    "id": 10290,
+    "name": "FFF",
+    "normalized": "FFF",
+    "field": "base"
   }],
-  "name": "ultimaker 1",
-  "id": "r8920fjeio",
+  "id": 1000000000,
+  "name": "Ultimaker 2",
   "meta": {
     "hoursOnline": 1249
-  }
+  },
+  "dimensions": [{
+    "area": "x",
+    "max": 200,
+    "min": 200
+  }],
+  "resolution": {
+    "min": 50,
+    "max": 300
+  },
+  "materials": [100000001],
+  "accessories": [{
+    "id": 1000,
+    "name": "0.4",
+    "size": 0.4,
+    "active": true,
+    "type": "nozzle"
+  }]
 }
