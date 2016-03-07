@@ -109,6 +109,39 @@ CREATE TABLE materials (
   amount_used    int NULL
 );
 
+-- TODO: confirm
+CREATE TABLE printers (
+  id             serial PRIMARY KEY,
+  active         boolean NOT NULL DEFAULT true,
+  attributes     integer[] NULL,
+  accessories    integer[] NULL,
+  created_at     timestamptz NOT NULL DEFAULT NOW(),
+  dimensions     jsonb NULL,
+  name           text NOT NULL,
+  hours_online   int NULL,
+  hours_printed  int NULL,
+  materials      integer[] ELEMENT REFERENCES materials,
+  resolution     jsonb NULL
+);
+
+-- TODO: confirm
+CREATE TABLE orders (
+  id             serial PRIMARY KEY,
+  active         boolean NOT NULL DEFAULT true,
+  attributes     integer[] NULL,
+  name           text NOT NULL,
+  items          integer[] ELEMENT REFERENCES items,
+  materials      integer[] ELEMENT REFERENCES materials,
+  printers       integer[] ELEMENT REFERENCES printers,
+  status         statuses NOT NULL DEFAULT 'init'::statuses,
+  started_at     timestamptz NOT NULL DEFAULT NOW(),
+  ended_at       timestamptz NULL,
+  billing        jsonb NULL,
+  card           jsonb NULL,
+  fulfilment     jsonb NULL,
+  shipping       jsonb NULL
+);
+
 ------------------------------------------------------------
 -- Setup Accounts, Users & Subscriptions
 ------------------------------------------------------------

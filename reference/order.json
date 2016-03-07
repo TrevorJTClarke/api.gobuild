@@ -3,10 +3,11 @@
   "name": "coat hanger",
   "startDate": 12367890343,
   "endDate": 12367890343,
+  "status": "pending",
   "active": true,
-  "item": {
+  "items": [{
     "id": "SEE ITEM MODEL",
-  },
+  }],
   "fulfilment": {
     "tracking": "8942uj489jf90wjfj9w0j",
     "carrier": "USPS",

@@ -10,9 +10,8 @@
   }],
   "id": 1000000000,
   "name": "Ultimaker 2",
-  "totals": {
-    "hoursOnline": 1249
-  },
+  "hoursOnline": 1249,
+  "hoursPrinted": 749,
   "dimensions": [{
     "area": "x",
     "max": 200,

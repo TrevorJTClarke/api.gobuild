@@ -2,8 +2,6 @@
 
 #### Steps:
 
-  - Setup Database SQL
-	- Setup Init DB Script
 	- Setup Test Data Script
 	- Setup Account & Users
 	- Setup Auth
