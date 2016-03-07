@@ -5,16 +5,9 @@
   "materials": [10000000000000, 10000000000001],
   "name": "Maker Space",
   "admins": [100000000000000],
-  "subscription": {
-    "id": 1000,
-    "name": "starter",
-    "currency": "USD",
-    "amount": 10,
-    "recurring": "monthly",
-    "active": true,
-    "startDate": 1489038292200,
-    "endDate": null
-  },
+  "subscriptionId": 1000,
+  "subscriptionStart": 1489038292200,
+  "subscriptionEnd": null,
   "settings": {},
   "stats": {}
 }
