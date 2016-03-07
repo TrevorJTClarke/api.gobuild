@@ -15,6 +15,9 @@
 
 ### Notes:
 
+jsonb
+http://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/
+
 /		GET
 /:product		POST, GET (materials, items, printers)
 	/:id	GET, PUT, DELETE

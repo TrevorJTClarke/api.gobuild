@@ -37,11 +37,11 @@
   }],
   "name": "Midnight Blue",
   "id": 10000000000000,
+  "batchId": 10000000000000,
   "sku": "320urfjinjnfw0e30",
+  "compliant": false,
   "dateAdded": 1234567890898,
   "dateOpened": 1234567890898,
-  "amounts": {
-    "total": 1.5,
-    "used": 0.4
-  }
+  "amountTotal": 1.5,
+  "amountUsed": 0.4
 }

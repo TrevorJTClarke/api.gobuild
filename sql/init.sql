@@ -2,9 +2,112 @@ DROP SCHEMA public CASCADE;
 CREATE SCHEMA public;
 
 ------------------------------------------------------------
--- Setup Baseline Attribute Data
+-- Setup Simple Attribute Data
 ------------------------------------------------------------
---TODO:
+-- TODO: confirm
+CREATE TABLE bases (
+  id             serial PRIMARY KEY,
+  active         boolean NOT NULL DEFAULT true,
+  name           text NOT NULL,
+  normalized     text NULL
+);
+
+-- TODO: confirm
+CREATE TABLE nozzles (
+  id             serial PRIMARY KEY,
+  active         boolean NOT NULL DEFAULT true,
+  name           text NOT NULL,
+  size           integer NOT NULL
+);
+
+-- TODO: confirm
+CREATE TABLE price_points (
+  id             serial PRIMARY KEY,
+  active         boolean NOT NULL DEFAULT true,
+  amount         integer NOT NULL,
+  currency       text NOT NULL,
+  measure        text NOT NULL,
+  name           text NOT NULL
+);
+
+-- TODO: confirm
+CREATE TABLE volumes (
+  id             serial PRIMARY KEY,
+  active         boolean NOT NULL DEFAULT true,
+  measure        text NOT NULL
+);
+
+-- TODO: confirm
+CREATE TABLE weights (
+  id             serial PRIMARY KEY,
+  active         boolean NOT NULL DEFAULT true,
+  measure        text NOT NULL
+);
+
+------------------------------------------------------------
+-- Setup Complex Attribute Data
+------------------------------------------------------------
+-- TODO: confirm
+CREATE TABLE brands (
+  id             serial PRIMARY KEY,
+  active         boolean NOT NULL DEFAULT true,
+  name           text NOT NULL,
+  material_type  int NOT NULL REFERENCES material_types(id)
+);
+
+-- TODO: confirm
+CREATE TABLE colors (
+  id             serial PRIMARY KEY,
+  active         boolean NOT NULL DEFAULT true,
+  images         text[] NULL,
+  name           text NOT NULL,
+  normalized     text NOT NULL
+);
+
+-- TODO: confirm
+CREATE TABLE material_types (
+  id             serial PRIMARY KEY,
+  active         boolean NOT NULL DEFAULT true,
+  base           int NOT NULL REFERENCES bases(id),
+  name           text NOT NULL,
+  normalized     text NULL
+);
+
+------------------------------------------------------------
+-- Setup Materials, Printers, Orders & Items
+------------------------------------------------------------
+
+CREATE TYPE statuses AS ENUM ('init', 'pending', 'processing', 'fulfilled');
+-- TODO: confirm printers materials
+CREATE TABLE items (
+  id             serial PRIMARY KEY,
+  active         boolean NOT NULL DEFAULT true,
+  attributes     integer[] NULL,
+  cost           integer NULL,
+  name           text NOT NULL,
+  materials      integer[] ELEMENT REFERENCES materials,
+  model          jsonb NULL,
+  printers       integer[] ELEMENT REFERENCES printers,
+  resolutions    integer[] NULL,
+  status         statuses NOT NULL DEFAULT 'init'::statuses,
+  started_at     timestamptz NOT NULL DEFAULT NOW(),
+  ended_at       timestamptz NULL
+);
+
+-- TODO: confirm
+CREATE TABLE materials (
+  id             serial PRIMARY KEY,
+  batch_id       int NULL,
+  active         boolean NOT NULL DEFAULT true,
+  attributes     integer[] NULL,
+  compliant      boolean NOT NULL DEFAULT true,
+  name           text NOT NULL,
+  sku            text NOT NULL,
+  added_at       timestamptz NOT NULL DEFAULT NOW(),
+  opened_at      timestamptz NULL,
+  amount_total   int NULL,
+  amount_used    int NULL
+);
 
 ------------------------------------------------------------
 -- Setup Accounts, Users & Subscriptions
@@ -23,20 +126,20 @@ CREATE TABLE subscriptions (
   type           subscript_type NOT NULL DEFAULT 'beta'::subscript_type
 );
 
--- TODO: confirm printers materials
+-- TODO: confirm
 CREATE TABLE accounts (
   id                    bigserial PRIMARY KEY,
   created_at            timestamptz NOT NULL DEFAULT NOW(),
   admins                integer[] ELEMENT REFERENCES users,
   users                 integer[] ELEMENT REFERENCES users,
-  printers              integer[],
-  materials             integer[],
+  printers              integer[] ELEMENT REFERENCES printers,
+  materials             integer[] ELEMENT REFERENCES materials,
   name                  text NOT NULL,
   settings              jsonb NULL,
   stats                 jsonb NULL,
   subscription_id       int PRIMARY KEY NOT NULL REFERENCES subscriptions(id),
   subscription_start    timestamptz NOT NULL DEFAULT NOW(),
-  subscription_end      NULL
+  subscription_end      timestamptz NULL
 );
 
 -- TODO: confirm items orders
@@ -50,8 +153,8 @@ CREATE TABLE users (
   last_name      text NULL,
   email          text NOT NULL,
   mask           text NOT NULL,
-  items          integer[],
-  orders         integer[],
+  items          integer[] NULL,
+  orders         integer[] NULL,
   settings       jsonb NULL,
   stats          jsonb NULL
 );
