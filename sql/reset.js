@@ -35,8 +35,8 @@ co(function*() {
   })();
 
   yield (function*() {
-    const sql = yield slurpSql('users.sql');
-    console.log('-- Executing users.sql...');
+    const sql = yield slurpSql('dummy.sql');
+    console.log('-- Executing dummy.sql...');
     return yield db.query(sql);
   })();
 }).then(function() {
