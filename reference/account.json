@@ -4,7 +4,6 @@
   "printers": [1000000000, 1000000001],
   "materials": [10000000000000, 10000000000001],
   "name": "Maker Space",
-  "admins": [100000000000000],
   "subscriptionId": 1000,
   "subscriptionStart": 1489038292200,
   "subscriptionEnd": null,
