@@ -3,6 +3,10 @@
 #### Steps:
 
 	- Setup Test Data Script
+    - setup all attributes
+    - setup materials/printers
+    - setup accounts
+    - setup users
 	- Setup Account & Users
 	- Setup Auth
 
